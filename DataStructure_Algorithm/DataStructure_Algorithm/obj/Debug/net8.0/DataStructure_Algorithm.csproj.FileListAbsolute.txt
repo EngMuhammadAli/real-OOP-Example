@@ -1,0 +1,14 @@
+C:\Users\T14 GEN1\source\repos\DataStructure_Algorithm\DataStructure_Algorithm\bin\Debug\net8.0\DataStructure_Algorithm.exe
+C:\Users\T14 GEN1\source\repos\DataStructure_Algorithm\DataStructure_Algorithm\bin\Debug\net8.0\DataStructure_Algorithm.deps.json
+C:\Users\T14 GEN1\source\repos\DataStructure_Algorithm\DataStructure_Algorithm\bin\Debug\net8.0\DataStructure_Algorithm.runtimeconfig.json
+C:\Users\T14 GEN1\source\repos\DataStructure_Algorithm\DataStructure_Algorithm\bin\Debug\net8.0\DataStructure_Algorithm.dll
+C:\Users\T14 GEN1\source\repos\DataStructure_Algorithm\DataStructure_Algorithm\bin\Debug\net8.0\DataStructure_Algorithm.pdb
+C:\Users\T14 GEN1\source\repos\DataStructure_Algorithm\DataStructure_Algorithm\obj\Debug\net8.0\DataStructure_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T14 GEN1\source\repos\DataStructure_Algorithm\DataStructure_Algorithm\obj\Debug\net8.0\DataStructure_Algorithm.AssemblyInfoInputs.cache
+C:\Users\T14 GEN1\source\repos\DataStructure_Algorithm\DataStructure_Algorithm\obj\Debug\net8.0\DataStructure_Algorithm.AssemblyInfo.cs
+C:\Users\T14 GEN1\source\repos\DataStructure_Algorithm\DataStructure_Algorithm\obj\Debug\net8.0\DataStructure_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\T14 GEN1\source\repos\DataStructure_Algorithm\DataStructure_Algorithm\obj\Debug\net8.0\DataStructure_Algorithm.dll
+C:\Users\T14 GEN1\source\repos\DataStructure_Algorithm\DataStructure_Algorithm\obj\Debug\net8.0\refint\DataStructure_Algorithm.dll
+C:\Users\T14 GEN1\source\repos\DataStructure_Algorithm\DataStructure_Algorithm\obj\Debug\net8.0\DataStructure_Algorithm.pdb
+C:\Users\T14 GEN1\source\repos\DataStructure_Algorithm\DataStructure_Algorithm\obj\Debug\net8.0\DataStructure_Algorithm.genruntimeconfig.cache
+C:\Users\T14 GEN1\source\repos\DataStructure_Algorithm\DataStructure_Algorithm\obj\Debug\net8.0\ref\DataStructure_Algorithm.dll
